@@ -1,8 +1,8 @@
-One of Us
+MAIN HEADING1: One of Us
 SOS
 No Lies
 Waterloo
-Rules
+SIDE HEADING2: Rules
 Dancing Queen
 Chiquitita
 Give me, Give me
