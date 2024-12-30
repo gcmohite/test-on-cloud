@@ -1,4 +1,5 @@
-MAIN HEADING1: One of Us
+
+HEADING1: One of Us
 SOS
 No Lies
 Waterloo
